@@ -1,0 +1,7 @@
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\obj\Debug\CSharp10.10.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\obj\Debug\CSharp10.10.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\bin\Debug\CSharp10.10.exe.config
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\bin\Debug\CSharp10.10.exe
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\bin\Debug\CSharp10.10.pdb
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\obj\Debug\CSharp10.10.exe
+C:\Users\Vadim\source\repos\CSharp10.10\CSharp10.10\obj\Debug\CSharp10.10.pdb
